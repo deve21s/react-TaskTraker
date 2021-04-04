@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.reminder {
+  color: rgb(50, 216, 44) !important;
+  background-color: rgb(116, 60, 60) !important;
+} 
+
+.task {
+  margin-top: 10px;
+  color: rebeccapurple ;
+  background-color: aliceblue;
+}
+
+.noTask {
+  padding: 20px;
+  font-size: 200px;
+  color: black;
+  background-color: burlywood;
+  width: auto;
+  height: inherit;
+}
